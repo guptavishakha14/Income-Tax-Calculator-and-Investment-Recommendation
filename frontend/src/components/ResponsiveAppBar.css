@@ -1,0 +1,11 @@
+.navbar{
+    font-size: 1.5rem;
+    background-color: darkgreen;
+}
+.navbar-brand >img{
+    width: 70px;
+    height: 60px;
+}
+.collapse .navbar-collapse{
+    float: right;
+}

@@ -1,0 +1,61 @@
+.heading {
+    text-align: center;
+    margin: 60px 0px 20px 0px;
+}
+
+.input-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    /* gap: 20%; */
+    /* padding-left: 300px;       */
+}
+
+.containers {
+    padding: 40px 0px;
+    width: 35%;
+}
+
+.containers>div {
+    padding-top: 20px;
+    padding-left: 80px;
+}
+
+.containers>div>label {
+    padding-top: 20px;
+    width: 25%;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.form-group-button {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.button {
+    width: fit-content;
+    background: darkgreen;
+    padding: 15px 20px;
+    color: white;
+    margin: 50px 30px 0px 30px;
+    font-size: 20px;
+}
+
+.calc-tax{
+    text-align: center;
+    margin: 20px 0;
+}
+.Collapsible_recommendation{
+    margin:50px 360px;
+}
+
+@media(max-width:800px) {
+    .containers {
+        width: 50%;
+    }
+    .containers> div{
+        padding-left: 30px;
+    }
+
+}

@@ -1,0 +1,22 @@
+.containers_collapsable{
+    float: left;
+    width: 50%;
+}
+.containers_collapsable_right{
+    padding-left: 90px;
+}
+.containers_collapsable>div{
+    padding-left: 0% !important;
+}
+.containers_collapsable>div>label {
+    width: 35%;
+}
+.containers_collapsable>div{
+    height: 100px;
+}
+/* .containers>div>FormControl>label {
+    padding-top: 20px;
+    width: 25%;
+    font-size: 18px;
+    font-weight: 500;
+} */

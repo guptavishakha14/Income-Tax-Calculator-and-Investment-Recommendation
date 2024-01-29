@@ -1,0 +1,15 @@
+.calculate-container{
+    margin: auto;
+    margin-top: 5%;
+}
+.tax-div{
+    display: flex;
+    justify-content: center;
+}
+.tax-div div{
+    display: flex;
+    justify-content: space-between;
+    width: 25%;
+    margin: 20px;
+    padding: 0 20px;
+}
