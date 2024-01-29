@@ -1,7 +1,7 @@
 import React from 'react'
 import './ResponsiveAppBar.css'
 import Footer from './Footer';
-import logo from'../genesis-low-resolution-color-logo.png';
+import logo from'../savetax.png';
 
 function ResponsiveAppBar() {
   return (
