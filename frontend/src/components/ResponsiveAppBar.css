@@ -5,6 +5,7 @@
 .navbar-brand >img{
     width: 70px;
     height: 60px;
+    margin-left: 10%;
 }
 .collapse .navbar-collapse{
     float: right;
