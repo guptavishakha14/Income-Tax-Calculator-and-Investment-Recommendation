@@ -24,7 +24,7 @@ function ResponsiveAppBar() {
               <a className="nav-link text-white" href="#">Pricing</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link disabled text-white" href="#">Disabled</a>
+              <a className="nav-link text-white" href="#">Contact Us</a>
             </li>
           </ul>
         </div>
